@@ -3,8 +3,8 @@
 
 This repository is the official implementation of the paper called [Flow Matching for Geometric Trajectory Simulation](https://arxiv.org/abs/2505.18647)
 
-[![arXiv](assets/arXiv-2412.06264-red.svg)](https://arxiv.org/abs/2505.18647) 
-[![License: CC BY-NC 4.0](assets/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+[![arXiv](https://img.shields.io/badge/arXiv-2505.18647-b31b1b.svg)](https://arxiv.org/abs/2505.18647) 
+[![License: CC BY-NC 4.0](https://arxiv.org/icons/licenses/by-4.0.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ![Architecture schematic](figures/STFlow.svg)
 
