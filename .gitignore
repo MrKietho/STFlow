@@ -1,0 +1,6 @@
+stflow_data_and_weights.zip
+logs/
+__pycache__/
+.vscode/
+paper/
+data/raw/
